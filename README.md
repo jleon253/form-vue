@@ -1,4 +1,13 @@
-# formularios
+# Formularios con Vue.js
+
+In this small app, I test form control with Vue.js using v-model attribute.
+
+**Demo:**
+
+### Dev tools used
+
+> - HTML, CSS, Bootstrap Material 4
+> - ES6, Vue.js (v-model)
 
 ## Project setup
 ```
