@@ -2,7 +2,7 @@
 
 In this small app, I test form control with Vue.js using v-model attribute.
 
-**Demo:**
+**Demo:** https://jleon253.github.io/form-vue/
 
 ### Dev tools used
 
